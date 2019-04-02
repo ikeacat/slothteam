@@ -1,2 +1,2 @@
 # slothteam
-The github repo for the soon to be slothteam.com
+The GitHub Repo for [slothteam.com](https://www.slothteam.com)
