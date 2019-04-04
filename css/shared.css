@@ -10,3 +10,7 @@ body {
 .shared-hr {
     background-color: black;
 }
+
+a {
+    color: white;
+}
