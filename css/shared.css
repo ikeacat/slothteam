@@ -1,6 +1,7 @@
 body {
     font-family: "Cantarell", serif;
-    background-image: url("../pictures/bg-sloth1.jpg")
+    background-image: url("../pictures/bg-sloth1.jpg");
+    color: white;
 }
 .shared-title {
     font-family: "Mrs Sheppards", cursive;
