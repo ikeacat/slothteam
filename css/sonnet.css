@@ -1,6 +1,7 @@
 #divblock {
     background-color: purple;
     right: 100px;
+    position: initial;
 }
 .CP {
     font-family: monospace;
