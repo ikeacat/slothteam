@@ -1,2 +1,7 @@
 <link href="https://fonts.googleapis.com/css?family=Mrs+Sheppards|Pacifico" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Cantarell" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Akronim" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+
+COMBINED:
+<link href="https://fonts.googleapis.com/css?family=Mrs+Sheppards|Pacifico|Cantarell|Akronim|Montserrat" rel="stylesheet">
