@@ -26,3 +26,8 @@
 .insideborder {
     background-color: #0a6840;
 }
+
+.buttonsubs {
+    border: 5px solid;
+    background-color: #15f093;
+}
