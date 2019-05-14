@@ -1,4 +1,28 @@
 #buttonblock {
+    position: sticky;
     padding: 3px;
-    float: right;
+    background-color: #15f093;
+    border: 5px solid;
+    text-align: center;
+}
+
+.buttonspecific {
+    background-color: gray;
+    border: 3px solid;
+    border-color: #0e8a55;
+    padding: 5px;
+    border-radius: 15px 15px 15px 15px;
+    color: white;
+
+}
+
+#entirebody {
+    text-align: center;
+    position: absolute;
+    margin: none;
+    padding: none;
+}
+
+.insideborder {
+    background-color: #0a6840;
 }
