@@ -14,3 +14,9 @@ body {
 a {
     color: white;
 }
+
+#galleryblock {
+    position: sticky;
+    float: left;
+    background-color: blueviolet;
+}
