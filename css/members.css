@@ -1,6 +1,6 @@
 .memblock {
-    background-color: blueviolet;
-    width: 150px;
+  float: left;
+  background-color: blueviolet;
 }
 .memtitle {
     font-family: "Pacifico", cursive;

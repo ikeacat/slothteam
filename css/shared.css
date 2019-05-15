@@ -1,10 +1,10 @@
 body {
     font-family: "Cantarell", serif;
-    background-image: url("../pictures/bg-sloth1.jpg");
+    background-image: url("../pictures/bg-sloth2.jpg");
     color: white;
 }
 .shared-title {
-    font-family: "Mrs Sheppards", cursive;
+    font-family: "Akronim", "Mrs Sheppards";
     font-size: 30px;
 }
 .shared-hr {
@@ -13,4 +13,14 @@ body {
 
 a {
     color: white;
+}
+
+.image {
+	width: 200px;
+}
+
+#galleryblock {
+    position: sticky;
+    float: left;
+    background-color: blueviolet;
 }
