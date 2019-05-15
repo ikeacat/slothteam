@@ -24,3 +24,14 @@ a {
     float: left;
     background-color: blueviolet;
 }
+
+.buttonspecific {
+    background-color: gray;
+    border: 3px solid;
+    border-color: #0e8a55;
+    padding: 5px;
+    border-radius: 15px 15px 15px 15px;
+    color: white;
+
+}
+
