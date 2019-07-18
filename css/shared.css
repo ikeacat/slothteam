@@ -35,3 +35,13 @@ a {
 
 }
 
+.biggieblock {
+    position:center, sticky;
+    background-color: #207822;
+    height: 98%;
+    width: 60%;
+    margin: 0%;
+    padding: 0%;
+    border: 1px solid gray;
+    overflow: auto;
+}
