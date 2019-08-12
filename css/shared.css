@@ -36,7 +36,7 @@ a {
 }
 
 .biggieblock {
-    position:center, sticky;
+    position:center;
     background-color: #207822;
     height: 98%;
     width: 50%;
@@ -50,4 +50,15 @@ a {
   border: 5px solid;
   background-color: #1ae81e;
   border-color: #394039;
+}
+
+.biggieblocktwo {
+    position:center;
+    background-color: #207822;
+    height: 98%;
+    width: 50%;
+    margin: 0%;
+    padding: 0%;
+    border: 1px solid gray;
+    overflow: auto;
 }
