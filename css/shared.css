@@ -2,6 +2,7 @@ body {
     font-family: "Cantarell", serif;
     background-image: url("../pictures/bg-sloth2.jpg");
     color: white;
+    background-size: cover;
 }
 .shared-title {
     font-family: "Akronim", "Mrs Sheppards";
