@@ -1,0 +1,36 @@
+.mainblock {
+  border: 4px solid purple;
+  width: 50%;
+  height: 98%;
+  background-color: #3dede1;
+  font-family: "Roboto Slab", sans-serif;
+
+}
+
+.hername {
+  font-family: "Beth Ellen", cursive;
+}
+
+.randfaceimg {
+  border: 3px dashed black;
+}
+.rotateimg90 {
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+
+body {
+  background-image: url("https://wallpaperaccess.com/full/337664.jpg");
+}
+
+.buttonstyle {
+  background-color: gray;
+  border: 3px solid;
+  border-color: #47007a;
+  padding: 5px;
+  border-radius: 15px 15px 15px 15px;
+  color: white;
+}
