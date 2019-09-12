@@ -4,7 +4,7 @@
   height: 98%;
   background-color: #3dede1;
   font-family: "Roboto Slab", sans-serif;
-
+  overflow: auto;
 }
 
 .hername {
