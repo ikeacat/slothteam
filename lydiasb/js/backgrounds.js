@@ -6,5 +6,6 @@ BackgroundArray[2] = "Pic3";
 
 function WeNeedANewBackgroundPlz() {
     var num = Math.floor( Math.random() * 3)
+    console.log("Background Number: " + num)
     document.getElementById("fullbody").classList.add = BackgroundArray[num]
 }
