@@ -22,10 +22,6 @@
   transform: rotate(90deg);
 }
 
-body {
-  background-image: url("https://wallpaperaccess.com/full/337664.jpg");
-}
-
 .buttonstyle {
   background-color: gray;
   border: 3px solid;
@@ -33,4 +29,16 @@ body {
   padding: 5px;
   border-radius: 15px 15px 15px 15px;
   color: white;
+}
+
+.Pic1 {
+    background-image: url("https://www.birchbox.co.uk/images/uploads/April_BoxDesign_Screensaver_Desktop1920x1080px.jpg");
+}
+
+.Pic2 {
+    background-image: url("https://media3.giphy.com/media/l378wcSfS7eXWQgla/giphy.gif");
+}
+
+.Pic3 {
+    background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/calm-reflective-water-background_bjnehswwh__F0000.png");
 }
