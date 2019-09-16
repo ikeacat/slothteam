@@ -1,0 +1,65 @@
+body {
+    font-family: "Cantarell", serif;
+    background-image: url("../pictures/bg-sloth2.jpg");
+    color: white;
+    background-size: cover;
+}
+.shared-title {
+    font-family: "Akronim", "Mrs Sheppards";
+    font-size: 30px;
+}
+.shared-hr {
+    background-color: black;
+}
+
+a {
+    color: white;
+}
+
+.image {
+	width: 200px;
+}
+
+#galleryblock {
+    position: sticky;
+    float: left;
+    background-color: blueviolet;
+}
+
+.buttonspecific {
+    background-color: gray;
+    border: 3px solid;
+    border-color: #1adb89;
+    padding: 5px;
+    border-radius: 15px 15px 15px 15px;
+    color: white;
+
+}
+
+.biggieblock {
+    position:center;
+    background-color: #207822;
+    height: 98%;
+    width: 50%;
+    margin: 0%;
+    padding: 0%;
+    border: 1px solid gray;
+    overflow: auto;
+}
+
+.buttonpanel {
+  border: 5px solid;
+  background-color: #1ae81e;
+  border-color: #394039;
+}
+
+.biggieblocktwo {
+    position:center;
+    background-color: #207822;
+    height: 98%;
+    width: 50%;
+    margin: 0%;
+    padding: 0%;
+    border: 1px solid gray;
+    overflow: auto;
+}
