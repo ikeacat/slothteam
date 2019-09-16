@@ -5,3 +5,26 @@
 body {
   font-family: Lato, sans-serif;
 }
+
+a:hover {
+  background-color: #3b4c66;
+  color: black;
+}
+
+a {
+  color: black;
+}
+
+.link-example {
+  position: relative;
+  top: 0px;
+  left: 300px;
+}
+
+.fixedtopbar {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+}
