@@ -1,0 +1,44 @@
+.mainblock {
+  border: 4px solid purple;
+  width: 50%;
+  height: 98%;
+  background-color: #3dede1;
+  font-family: "Roboto Slab", sans-serif;
+  overflow: auto;
+}
+
+.hername {
+  font-family: "Beth Ellen", cursive;
+}
+
+.randfaceimg {
+  border: 3px dashed black;
+}
+.rotateimg90 {
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+
+.buttonstyle {
+  background-color: gray;
+  border: 3px solid;
+  border-color: #47007a;
+  padding: 5px;
+  border-radius: 15px 15px 15px 15px;
+  color: white;
+}
+
+.Pic1 {
+    background-image: url("https://www.birchbox.co.uk/images/uploads/April_BoxDesign_Screensaver_Desktop1920x1080px.jpg");
+}
+
+.Pic2 {
+    background-image: url("https://media3.giphy.com/media/l378wcSfS7eXWQgla/giphy.gif");
+}
+
+.Pic3 {
+    background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/calm-reflective-water-background_bjnehswwh__F0000.png");
+}
