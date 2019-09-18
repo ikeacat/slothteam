@@ -1,6 +1,6 @@
 ImageArray = new Array();
 ImageArray[0] = 'pictures/bg-sloth1.jpg';
-ImageArray[1] = 'pictures/bg-sloth2.jpg';
+ImageArray[1] = 'pictures/bg-sloth1.jpg';
 ImageArray[2] = 'pictures/gallery-only/sloth1.jpeg';
 ImageArray[3] = 'pictures/rand-sloth1.jpg'
 ImageArray[4] = 'pictures/rand-sloth2.jpg'
