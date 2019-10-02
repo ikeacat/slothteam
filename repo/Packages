@@ -10,3 +10,16 @@ Depends: com.spark.snowboard
 Filename: ./debs/PeriodicallyGradiant-1-0-prerelease3.deb
 Size: 1015808
 MD5sum: a3b9643f30c7b3a103ab670fdf51768b
+
+Package: xyz.ikeacat.pgold
+Name: [OLD] PeriodicallyGradient
+Version: 1.0-onlyreleaseever
+Architecture: iphoneos-arm
+Description: The old Gradient Icons that are worse and use CALIBRI! :( There will never be a change or update..
+Author: ikeacat
+Maintainer: ikeacat <mfryk268@gmail.com>
+Section: Themes
+Depends: xyz.ikeacat.periodicallygradient, com.spark.snowboard
+Filename: ./debs/PeriodicallyGradiantOld-1-0.deb
+Size: 524288
+MD5sum: 54505f3045aae28a19e689561da18221
