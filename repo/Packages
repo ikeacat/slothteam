@@ -8,9 +8,9 @@ Maintainer: ikeacat <mfryk268@gmail.com>
 Section: Themes
 Depends: com.spark.snowboard
 Depiction: http://slothteam.com/repo/depics/PeriodicallyGradient/index.html
-Filename: ./debs/PeriodicallyGradiant-1-0-3.deb
-Size: 494638
-MD5sum: 0502715c94239c8b844f9a3d5d7425b0
+Filename: ./debs/PeriodicallyGradiant-1-0-4.deb
+Size: 518648
+MD5sum: e642880f378eafbe5128e8640bdf7549
 
 Package: xyz.ikeacat.pgold
 Name: [OLD] PeriodicallyGradient
