@@ -1,16 +1,16 @@
 Package: xyz.ikeacat.periodicallygradient
 Name: PeriodicallyGradient
-Version: 1.0.4
+Version: 1.0.7
 Architecture: iphoneos-arm
-Description: Gradient Icons but its a periodic table\n\n If I duplicate a table letter pair / trio, please message me on Reddit: u/mase268 \n\n Open to suggestions for apps to make icons for. \n\n <b>Changelog: https://slothteam.com/repo/changelog/vers103.txt
+Description: Gradient Icons but its a periodic table
 Author: ikeacat
 Maintainer: ikeacat <mfryk268@gmail.com>
 Section: Themes
 Depends: com.spark.snowboard
 Depiction: http://slothteam.com/repo/depics/PeriodicallyGradient/index.html
-Filename: ./debs/PeriodicallyGradiant-1-0-4.deb
-Size: 518648
-MD5sum: e642880f378eafbe5128e8640bdf7549
+Filename: ./debs/PeriodicallyGradient-1-0-7.deb
+Size: 598016
+MD5sum: 19d569433c8ebf0519941d84dc6ef852
 
 Package: xyz.ikeacat.pgold
 Name: [OLD] PeriodicallyGradient
