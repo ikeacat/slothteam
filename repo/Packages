@@ -1,6 +1,6 @@
 Package: xyz.ikeacat.periodicallygradient
 Name: PeriodicallyGradient
-Version: 1.0.7
+Version: 1.0.9
 Architecture: iphoneos-arm
 Description: Gradient Icons but its a periodic table
 Author: ikeacat
@@ -8,9 +8,9 @@ Maintainer: ikeacat <mfryk268@gmail.com>
 Section: Themes
 Depends: com.spark.snowboard
 Depiction: http://slothteam.com/repo/depics/PeriodicallyGradient/index.html
-Filename: ./debs/PeriodicallyGradient-1-0-7.deb
-Size: 598016
-MD5sum: 19d569433c8ebf0519941d84dc6ef852
+Filename: ./debs/PeriodicallyGradient-1-0-9.deb
+Size: 655360
+MD5sum: e76bbdd231bea041f9bcab71a69fb96c
 
 Package: xyz.ikeacat.pgold
 Name: [OLD] PeriodicallyGradient
