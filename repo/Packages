@@ -37,3 +37,16 @@ Depends: com.spark.snowboard
 Filename: ./debs/NoBlackHulu-1-0.deb
 Size: 114688
 MD5sum: 6afb964accfd90637bd0cl6f885b97d7
+
+Package: xyz.ikeacat.periodicallygradient.beta
+Name: PeriodicallyGradient (Beta)
+Version: 1.1~beta1
+Architecture: iphoneos-arm
+Description: Beta releases of PeriodicallyGradient
+Author: ikeacat
+Maintainer: ikeacat <mfryk268@gmail.com>
+Section: Themes
+Depends: com.spark.snowboard
+Filename: ./debs/PeriodicallyGradientBeta.deb
+Size: 655360
+MD5sum: d5dc722a9d01c44277b657160f471eaa
